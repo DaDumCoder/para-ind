@@ -12,6 +12,6 @@
     "react-dom": "18.2.0",
     "@getpara/web-sdk": "latest",
     "@getpara/ethers-v6-integration": "latest",
-    "ethers": "^5.7.2"
+    "ethers": "^6.10.1"
   }
 }
