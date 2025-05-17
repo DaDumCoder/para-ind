@@ -1,0 +1,17 @@
+{
+  "name": "para-claim-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.5.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@getpara/web-sdk": "latest",
+    "@getpara/ethers-v6-integration": "latest",
+    "ethers": "^5.7.2"
+  }
+}
