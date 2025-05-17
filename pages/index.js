@@ -14,7 +14,7 @@ export default function Home() {
   const CONTRACT_ABI  = ['function claim() returns (bool)']
 
 const connect = async () => {
-    const para = new Para(Environment.BETA, API_KEY)
+    const para = new Para(Environment.PROD, API_KEY)
     // 1) initialize
     await para.init()
 
